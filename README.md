@@ -9,7 +9,7 @@ Arquiteto de Integração, Instrutor e na horas vagas desenvolvedor a toa.
 
 ## 🤝🏻 Redes sociais
 
-<a href="https://www.linkedin.com/in/aljes96/"><img alt="LinkedIn Alex Jesus" src="https://img.shields.io/badge/LinkedIn-aljes96-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/aljes96/"><img alt="Twitter Alex Jesus" src="https://img.shields.io/badge/Twitter-aljes96-blue?style=flat-square&logo=twitter"></a>
-<a href="https://dev.to/aljes96/"><img alt="DEV Alex Jesus" src="https://img.shields.io/badge/dev.to-aljes96-blue?style=flat-square"></a>
+<a href="https://www.linkedin.com/in/aljes96/"><img alt="LinkedIn Alex Jesus" height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
+<a href="https://www.twitter.com/aljes96/"><img alt="Twitter Alex Jesus" height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>
+<a href="https://dev.to/aljes96/"><img alt="DEV Alex Jesus" height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>
 
