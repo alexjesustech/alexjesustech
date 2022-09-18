@@ -2,10 +2,13 @@
 
 ## 👨🏻‍💻 Sobre 
 
-Profissional altamente adaptável, autodidata, proativo e comprometido com os projetos e equipes que faz parte. Trabalha com Tecnologia da Informação (TI) desde 2006. É graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Gestão de Recursos Humanos. Atua no Gerenciamento de Incidentes relacionados à Solução Integrada de Gestão de Pessoas no Poder Judiciário do Estado de Rondônia. Possui experiência no desenvolvimento de sistemas, tendo trabalhado em projetos desenvolvidos em diversas linguagens de programação, como PHP, Python e Java, com os sistemas gerenciadores de banco de dados MySQL, PostgreSQL e Oracle. Atualmente, se dedica ao estudo sobre Ciência de Dados.
-Arquiteto de Integração, Instrutor e na horas vagas desenvolvedor a toa.
+Profissional altamente adaptável, autodidata, proativo e comprometido com os projetos e equipes que faz parte. Trabalha com Tecnologia da Informação (TI) desde 2006. 
 
-* 💼 &nbsp; Atua no Gerenciamento de Incidentes relacionados à Solução Integrada de Gestão de Pessoas no Poder Judiciário do Estado de Rondônia.
+Graduado em Análise e Desenvolvimento de Sistemas e MBA em Gestão de Recursos Humanos. É um entusiasta apaixonado pela área de desenvolvimento de software. 
+
+Atua no Gerenciamento de Incidentes relacionados à Solução Integrada de Gestão de Pessoas, com equipes multidisciplinares das áreas de TI e Gestão de Pessoas no Tribunal de Justiça do Estado de Rondônia (TJRO). 
+
+Possui experiência com diversas tecnologias, diversos padrões e frameworks, tais como PHP, Python, Java, JavaScript, HTML, CSS, MySQL, PostgreSQL, Oracle, XML, Soap, Rest, Orientação a Objetos, MVC e Bootstrap.
 
 ## 🤝🏻 Redes sociais
 
