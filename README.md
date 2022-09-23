@@ -2,11 +2,11 @@
 
 ## 👨🏻‍💻 Sobre 
 
-Profissional altamente adaptável, autodidata, proativo e comprometido com os projetos e equipes que faz parte. Trabalha com Tecnologia da Informação (TI) desde 2006. 
+Entusiasta, apaixonado pelas áreas de Dev e RH. Trabalha com Tecnologia da Informação (TI) desde 2006.
 
-Graduado em Análise e Desenvolvimento de Sistemas e MBA em Gestão de Recursos Humanos. É um entusiasta apaixonado pela área de desenvolvimento de software. 
+Graduado em Análise e Desenvolvimento de Sistemas com MBA em Gestão de Recursos Humanos. É um entusiasta apaixonado pelas áreas de Desenvolvimento de Software e RH.
 
-Atua no Gerenciamento de Incidentes relacionados à Solução Integrada de Gestão de Pessoas, com equipes multidisciplinares das áreas de TI e Gestão de Pessoas no Tribunal de Justiça do Estado de Rondônia (TJRO). 
+Atua no gerenciamento de incidentes relacionados à Solução Integrada de Gestão de Pessoas, com equipes multidisciplinares das áreas de TI e Gestão de Pessoas no Tribunal de Justiça do Estado de Rondônia (TJRO).
 
 Possui experiência com diversas tecnologias, diversos padrões e frameworks, tais como PHP, Python, Java, JavaScript, HTML, CSS, MySQL, PostgreSQL, Oracle, XML, Soap, Rest, Orientação a Objetos, MVC e Bootstrap.
 
